@@ -1,6 +1,6 @@
 # sadhana_report
 
-A new Flutter project.
+It is an app created for users associated with the ISKCON youth forum. Manually filling sadhana report on paper may waste our precious time. It also a hard task while you're travelling and you forgot your sadhana report formatted paper. Also opening your laptop every time to write a daily sadhana report on your laptop is a tiresome task. That's why we created this app to save your precious that can be used for the Users can add their daily sadhana entry. Modify them by selecting the date. Also, user can delete their entry. For faster sharing of their weekly report or monthly report, user can generate pdf for a week or custom date ranges.
 
 ## Getting Started
 
